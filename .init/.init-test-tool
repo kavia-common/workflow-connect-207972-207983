@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/workflow-connect-207972-207983/workflow_frontend"
+}
